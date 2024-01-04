@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#57170A",
+        "titleBar.activeBackground": "#7A200D",
+        "titleBar.activeForeground": "#FFFCFB"
+    },
+    "r.lsp.promptToInstall": false
+}
